@@ -1,1 +1,2 @@
-pandas,lightweight-charts
+pandas,
+lightweight-charts
